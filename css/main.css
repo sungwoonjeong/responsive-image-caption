@@ -26,7 +26,11 @@ body {
   width: 100%;
 }
 
-div {
+.banner {
+  padding: 0;
+}
+
+.content {
   background-color: #e2e2e2;
   padding: 1.2em;
 }

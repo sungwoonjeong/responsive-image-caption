@@ -21,9 +21,16 @@ body {
 }
 
 .img-flex {
+  display: block;
   width: 100%
 }
 
 div {
   background-color: #e2e2e2;
+}
+
+h2 {
+  margin: 0;
+  font-family: "Denk One", sans-serif;
+  font-size: 1.5rem;
 }

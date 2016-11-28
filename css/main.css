@@ -40,3 +40,13 @@ h2 {
   font-family: "Denk One", sans-serif;
   font-size: 1.5rem;
 }
+
+@media only screen and (min-width: 38em) {
+
+  html {
+    font-size: 110%;
+    line-height: 1.4;
+  }
+
+
+}
